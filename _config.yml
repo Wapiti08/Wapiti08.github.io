@@ -21,7 +21,7 @@ header_pages:
   - funding.md
   # - opensource.md
   - gallery.md
-  - readings.md
+  - reading.md
   # - cv.md
 
 markdown: kramdown
