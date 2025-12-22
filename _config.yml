@@ -15,6 +15,12 @@ header_pages:
   - about.md
   - research.md
   - blog.md
+  - certifications.md
+  - collaborations.md
+  - fundings.md
+  - opensource.md
+  - gallery.md
+  - readings.md
   - cv.md
 
 markdown: kramdown
