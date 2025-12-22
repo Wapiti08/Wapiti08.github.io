@@ -13,6 +13,7 @@ with over six years of experience in research and development related to securit
 analytics, threat intelligence, and trustworthy AI systems.
 
 I primarily work with Python, Go, and Rust, and I have a strong interest in secure system design and practical cyber defence.
+
 ---
 
 ## Research Interests
