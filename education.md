@@ -36,6 +36,7 @@ lecturers. These included Lorenzo Cavallaro (Software Security, now at UCL),
 Martin R. Albrecht (Software Testing: Theory and Practice, now at King’s College
 London), and Daniele Sgandurra (Computer Security, now an industry research
 manager), among others.
+
 ---
 
 ### BEng in Cyber Security & Law Enforcement  
