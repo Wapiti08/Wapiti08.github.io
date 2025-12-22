@@ -9,7 +9,7 @@ I am Zhuoran Tan, currently pursuing a PhD in Computing Science at the Universit
 (2023–2026). 
 
 My research background spans AI security, cyber defence, and graph-based learning,
-with over six years of experience in research and development related to security
+with over seven years of experience in research and development related to security
 analytics, threat intelligence, and trustworthy AI systems.
 
 I primarily work with Python, Go, and Rust, and I have a strong interest in secure system design and practical cyber defence.
