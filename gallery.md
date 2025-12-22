@@ -33,3 +33,12 @@ permalink: /gallery/
   <img src="/assets/images/gallery/WechatIMG241.jpg" width="700">
   <figcaption>Poster Session at KU Leuven</figcaption>
 </figure>
+
+---
+
+## Public Engagement
+
+<figure>
+  <img src="/assets/images/gallery/1710949618546.jpeg" width="700">
+  <figcaption>Conception X Cohort 7</figcaption>
+</figure>
