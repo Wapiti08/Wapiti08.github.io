@@ -36,4 +36,4 @@ My research interests include:
 
 - Editorial Board Member: Transnational Supply Chain Resilience 
 
-- Programme Committee Member: : IEEE ICDCS 2025, Open Source SecurityCon (KubeCon + CloudNativeCon NA 2025)
+- Programme Committee Member: IEEE ICDCS 2025, Open Source SecurityCon (KubeCon + CloudNativeCon NA 2025)

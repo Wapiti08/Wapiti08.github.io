@@ -5,14 +5,31 @@ permalink: /gallery/
 
 ## Summer Schools
 
-![CISPA–ELLIS Summer School 2025](/assets/images/gallery/1754913645902.jpeg)
-![CISPA–ELLIS Summer School 2025](/assets/images/gallery/1755079477362.jpeg)
+<figure>
+  <img src="/assets/images/gallery/1754913645902.jpeg" width="700">
+  <figcaption>CISPA–ELLIS Summer School 2025</figcaption>
+</figure>
 
-![KU Leuven Summer School on Security & Privacy](/assets/images/gallery/1757947427363.jpeg)
+<figure>
+  <img src="/assets/images/gallery/1755079477362.jpeg" width="700">
+  <figcaption>CISPA–ELLIS Summer School 2025</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/gallery/1757947427363.jpeg" width="700">
+  <figcaption>KU Leuven Summer School on Security &amp; Privacy</figcaption>
+</figure>
 
 ---
 
 ## Poster Sessions
 
-![Poster Session at CISPA](/assets/images/gallery/WechatIMG240.jpg)
-![Poster Session at KU Leuven](/assets/images/gallery/WechatIMG241.jpg)
+<figure>
+  <img src="/assets/images/gallery/WechatIMG240.jpg" width="700">
+  <figcaption>Poster Session at CISPA</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/gallery/WechatIMG241.jpg" width="700">
+  <figcaption>Poster Session at KU Leuven</figcaption>
+</figure>

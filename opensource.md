@@ -15,4 +15,4 @@ My contributions include:
 - Synthetic datasets and benchmarks for AI and supply chain security (coming)
 
 Most projects are released alongside academic publications to support open and
-verifiable research.
+verifiable research. For more info please check my github.
