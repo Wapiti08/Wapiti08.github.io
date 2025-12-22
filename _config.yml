@@ -19,9 +19,9 @@ header_pages:
   - certificates.md
   - collaborations.md
   - funding.md
-  - opensource.md
+  # - opensource.md
   - gallery.md
   - readings.md
-  - cv.md
+  # - cv.md
 
 markdown: kramdown

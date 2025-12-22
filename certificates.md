@@ -5,7 +5,6 @@ permalink: /certificates/
 
 ## Certificates
 
-
 I previously held several professional security-related certificates. Some certifications are no longer active, and others were explored but not completed (e.g., OSCP). I consider certifications as complementary to hands-on research, system building, and long-term academic work, rather than as an end goal in themselves.
 
 - [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/af3bbd9a-4b71-4055-b090-bb6031144e94?source=linked_in_profile)
