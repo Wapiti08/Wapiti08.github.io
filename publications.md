@@ -1,6 +1,6 @@
 ---
-title: Research
-permalink: /research/
+title: Publications
+permalink: /publications/
 ---
 
 ## Selected Publications
