@@ -29,6 +29,42 @@ My research interests include:
 
 ---
 
+## Education 
+
+### PhD in Computing Science  
+**University of Glasgow**, United Kingdom  
+*2023 – 2026 (expected)*  
+
+Supervisors:  
+- Dr Christos Anagnostopoulos  
+- Prof Jeremy Singer  
+
+Research focus includes software and AI supply chain security, AI systems
+security, LLM safety, and temporal graph learning.
+
+### Visiting PhD Researcher 
+**University of Edinburgh**, United Kingdom  
+*Feb 2026 – May 2026*  
+
+Visiting research collaboration with Dr Marc Juarez, potentially focusing on AI security,
+
+### MSc in Information Security (with a Year in Industry)  
+**Royal Holloway, University of London**, United Kingdom  
+*2018 – 2020*  
+
+During my MSc studies, I was fortunate to receive high-quality training through
+rigorous coursework delivered by outstanding and internationally recognised
+lecturers. These included Lorenzo Cavallaro (Software Security, now at UCL),
+Martin R. Albrecht (Software Testing: Theory and Practice, now at King’s College
+London), and Daniele Sgandurra (Computer Security, now an industry research
+manager), among others.
+
+### BEng in Cyber Security & Law Enforcement  
+**People’s Public Security University of China**, Beijing  
+*2013 – 2017*  
+
+---
+
 ## Academic Position
 
 - Reviewer: Engineering Applications of Artificial Intelligence, IEEE ICC, IEEE ICDCS
@@ -36,6 +72,22 @@ My research interests include:
 - Editorial Board Member: Transnational Supply Chain Resilience 
 
 - Programme Committee Member: IEEE ICDCS 2025, Open Source SecurityCon (KubeCon + CloudNativeCon NA 2025)
+
+---
+
+## Certificates
+
+I previously held several professional security-related certificates. Some certifications are no longer active, and others were explored but not completed (e.g., OSCP). I consider certifications as complementary to hands-on research, system building, and long-term academic work, rather than as an end goal in themselves.
+
+- [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/af3bbd9a-4b71-4055-b090-bb6031144e94?source=linked_in_profile)
+
+- CREST Practitioner Security Analyst (CPSA): Credential ID 266639836
+
+- [CompTIA Security+ ce Certification](https://www.credly.com/badges/5cb7ddaa-91ad-4a43-a037-3e678700c820/linked_in_profile)
+
+- Remark: OSCP (tried once: finished 3.5 targets, did not try again due to limited time)
+
+---
 
 ## Personal Interests
 
