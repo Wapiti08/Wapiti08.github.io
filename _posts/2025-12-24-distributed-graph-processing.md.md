@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Distributed Graph Processing in Practice: From Python Parallelism to Rust and Go"
-date: 2025-12-27
+date: 2025-12-24
 tags: [graph-processing, distributed-systems, rust, golang, numba, joblib]
 ---
 

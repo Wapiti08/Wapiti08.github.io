@@ -1,4 +1,5 @@
 ---
+title: Gallery
 permalink: /gallery/
 ---
 
