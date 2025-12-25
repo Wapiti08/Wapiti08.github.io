@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 <img src="/assets/images/profile/1707059106215.jpeg"
