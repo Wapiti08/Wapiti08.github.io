@@ -1,5 +1,4 @@
 ---
-title: Open Source
 permalink: /opensource/
 ---
 
