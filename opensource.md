@@ -13,6 +13,6 @@ My contributions include:
 - [UTLParser](https://github.com/Wapiti08/UTLParser): Unified Parallel Semantic Log Parsing based on Causal Graph Construction for Attack Attribution
 - [OSPTrack](https://github.com/Wapiti08/OSPTrack): Labelled dataset for simulated package execution with package-analysis
 - Synthetic datasets and benchmarks for AI and supply chain security (coming soon)
-- MCP-SandboxScan: A WASM-based Secure Execution and Hybrid Analysis Framework for MCP Tools (coming soon)
+- [MCP-SandboxScan](https://github.com/Wapiti08/MCP-SandboxScan): A WASM-based Secure Execution and Hybrid Analysis Framework for MCP Tools (paper coming soon)
 
 Most projects are released alongside academic publications to support open and verifiable research. For more info please check my github.

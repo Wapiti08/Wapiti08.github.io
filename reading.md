@@ -18,12 +18,13 @@ This list is continuously evolving as part of my research and technical developm
 
 ## Currently Reading
 
-- Exploiting Software How to Break Code
-
 - The StatQuest Illustrated Guide to Neural Networks and AI
 
-- Adversarial AI Attacks，Mitigations, and Defense Strategies
+- Red Teaming AI Attacking Defending Intelligent Systems (AI Security Book 1) 
 
+- The Developer's Playbook for Large Language Model Security: Building Secure AI Applications
+
+- Exploiting Software How to Break Code
 
 ## Currently Learning
 
