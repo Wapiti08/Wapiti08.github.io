@@ -12,7 +12,7 @@ layout: page
 > *If it’s right, time will catch up.*
 
 I am a PhD candidate in Computing Science at the University of Glasgow, focusing on
-**AI security, software and AI supply chain security, anomaly/APT detection, and graph-based learning**.
+**Software and AI supply chain security, AI Security, Anomaly/APT detection, and graph-based learning**.
 
 My research investigates how complex, multi-stage attacks propagate across
 modern software ecosystems, AI pipelines, and agent-based systems, and how

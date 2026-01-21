@@ -18,3 +18,7 @@ permalink: /publications/
   *IEEE MSR*
 
 ---
+
+## Talks
+
+- Invited Talk at WF-IOT 2025: Advanced Persistent Threats Based on Supply Chain Vulnerabilities: Challenges, Solutions & Future Directions

@@ -10,9 +10,23 @@ I am Zhuoran Tan, currently pursuing a PhD in Computing Science at the Universit
 
 My research background spans AI security, cyber defence, and graph-based learning,
 with over seven years of experience in research and development related to security
-analytics, threat intelligence, and trustworthy AI systems.
+analytics, cyber defence system, threat intelligence analysis, and trustworthy AI systems.
 
 I primarily work with Python, Go, and Rust, and I have a strong interest in secure system design and practical cyber defence.
+
+---
+
+## Board Industry Stack
+
+- LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building. 
+
+- Security Detection Pipelines: WAF / traffic anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek).
+
+- Threat Intelligence & Graph Analytics: threat intel analysis and graph-based learning for security analytics.
+
+- Systems Engineering: secure backend/service development for cyber defence systems with Python / Go / Rust.
+
+- Data & Retrieval: vector search / semantic retrieval with Milvus VectorDB. 
 
 ---
 
