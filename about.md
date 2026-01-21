@@ -28,9 +28,9 @@ I primarily work with Python, Go, and Rust, and I have a strong interest in secu
 
 - Data & Retrieval: vector search / semantic retrieval with Milvus VectorDB. 
 
-- MLOPs: git, DVS, MLflow, SLSA, CI/CD, Hugging Face
+- MLOPs: git, DVS, MLflow, SLSA, CI/CD, Hugging Face, Dask, Numba, Ray
 
-- Cloud: AWS for Machine Learning, Azure for Log Analytics Workspace
+- Cloud: AWS for Machine Learning, Azure for Log Analytics Workspace, BigQuery
 
 ---
 
