@@ -16,7 +16,7 @@ I primarily work with Python, Go, and Rust, and I have a strong interest in secu
 
 ---
 
-## Board Industry Stack
+## Industry Stack
 
 - LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building. 
 
