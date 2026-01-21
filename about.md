@@ -18,7 +18,7 @@ I primarily work with Python, Go, and Rust, and I have a strong interest in secu
 
 ## Industry Stack
 
-- LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building. 
+- LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain and MCP.
 
 - Security Detection Pipelines: WAF / traffic anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek).
 
@@ -27,6 +27,10 @@ I primarily work with Python, Go, and Rust, and I have a strong interest in secu
 - Systems Engineering: secure backend/service development for cyber defence systems with Python / Go / Rust.
 
 - Data & Retrieval: vector search / semantic retrieval with Milvus VectorDB. 
+
+- MLOPs: git, DVS, MLflow, SLSA, CI/CD, Hugging Face
+
+- Cloud: AWS for Machine Learning, Azure for Log Analytics Workspace
 
 ---
 
