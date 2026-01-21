@@ -20,7 +20,7 @@ I primarily work with Python, Go, and Rust, and I have a strong interest in secu
 
 - LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain and MCP.
 
-- Security Detection Pipelines: WAF / traffic anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek).
+- Security Detection Pipelines: WAF / traffic / log / multi-source data anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek).
 
 - Threat Intelligence & Graph Analytics: threat intel analysis and graph-based learning for security analytics.
 
