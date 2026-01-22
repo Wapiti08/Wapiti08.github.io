@@ -21,7 +21,7 @@ analytics, cyber defence system, threat intelligence analysis, and trustworthy A
 
 - LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain, MCP, and RAG.
 
-- Security Detection Pipelines: WAF / traffic / log / multi-source data anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek).
+- Security Detection Pipelines: WAF / traffic / log / multi-source data anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek, Neo4j).
 
 - Threat Intelligence & Graph Analytics: threat intel analysis and graph-based learning for security analytics.
 
