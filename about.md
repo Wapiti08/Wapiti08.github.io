@@ -19,7 +19,7 @@ I primarily work with Python, Go, and Rust, and I have a strong interest in secu
 With over seven years of industry-orient experience in research and development related to security
 analytics, cyber defence system, threat intelligence analysis, and trustworthy AI systems.
 
-- LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain and MCP.
+- LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain, MCP, and RAG.
 
 - Security Detection Pipelines: WAF / traffic / log / multi-source data anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek).
 
@@ -29,9 +29,9 @@ analytics, cyber defence system, threat intelligence analysis, and trustworthy A
 
 - Data & Retrieval: vector search / semantic retrieval with Milvus VectorDB. 
 
-- MLOPs: git, DVC, MLflow, SLSA, CI/CD, Hugging Face, Dask, Numba, Ray
+- MLOPs: git, DVC, MLflow, Container, SLSA, CI/CD, Hugging Face, Dask, Numba, Ray.
 
-- Cloud: AWS for Machine Learning, Azure for Log Analytics Workspace, BigQuery
+- Cloud: AWS for Machine Learning, Azure for Log Analytics Workspace, BigQuery.
 
 ---
 
