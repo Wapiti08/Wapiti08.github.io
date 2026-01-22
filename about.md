@@ -97,7 +97,7 @@ manager), among others.
 
 ## Academic Position
 
-- Reviewer: Engineering Applications of Artificial Intelligence, IEEE ICC, IEEE ICDCS
+- Reviewer: Engineering Applications of Artificial Intelligence, Computer Networks, IEEE ICC, IEEE ICDCS
 
 - Editorial Board Member: Transnational Supply Chain Resilience 
 
