@@ -8,15 +8,16 @@ permalink: /about/
 I am Zhuoran Tan, currently pursuing a PhD in Computing Science at the University of Glasgow
 (2023–2026). 
 
-My research background spans software supply/AI security (focusing on runtime detection/defence), cyber defence (practical deployment, multi-source, data fusion), and graph-based learning (graph mining and temporal graph analysis),
-with over seven years of industry-orient experience in research and development related to security
-analytics, cyber defence system, threat intelligence analysis, and trustworthy AI systems.
+My research background spans software supply/AI security (focusing on runtime detection/defence), cyber defence (practical deployment, multi-source, data fusion), and graph-based learning (graph mining and temporal graph analysis).
 
 I primarily work with Python, Go, and Rust, and I have a strong interest in secure system design and practical cyber defence.
 
 ---
 
 ## Industry Stack
+
+With over seven years of industry-orient experience in research and development related to security
+analytics, cyber defence system, threat intelligence analysis, and trustworthy AI systems.
 
 - LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain and MCP.
 
@@ -56,6 +57,17 @@ My research interests include:
 Supervisors:  
 - Dr Christos Anagnostopoulos  
 - Prof Jeremy Singer  
+
+External Supervisors:
+- Prof Ashkan Sami (Edinburgh Napier University)
+- Dr Marc Juarez Miro (The University of Edinburgh)
+
+External Collabrators:
+- Wenbo Guo (Nanyang Technological University)
+- Run Hao (Aarhus University)
+- Bo Shao (CISPA)
+- Chongyang Xu (MPI SWS)
+- JieWen Luo (Royal Holloway, University of London)
 
 Research focus includes software and AI supply chain security, AI systems
 security, LLM safety, and temporal graph learning.
