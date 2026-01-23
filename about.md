@@ -29,7 +29,7 @@ analytics, cyber defence system, threat intelligence analysis, and trustworthy A
 
 - Data & Retrieval: vector search / semantic retrieval with Milvus VectorDB. 
 
-- MLOPs: git, DVC, MLflow, Container, SLSA, CI/CD, Hugging Face, Dask, Numba, Ray.
+- MLOPs: git, Container, SLSA, CI/CD, Hugging Face, Dask, Numba, Ray, DVC, MLflow.
 
 - Cloud: AWS for Machine Learning, Azure for Log Analytics Workspace, BigQuery.
 

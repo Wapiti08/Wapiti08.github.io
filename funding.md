@@ -7,7 +7,7 @@ permalink: /funding/
 
 - Full School–Industry Scholarship (International Level), University of Glasgow (2023–2026)
 - Excellent Award, First Innovation Competition by DBAPPSecurity (2023)
-- Global Excellence Scholarship, Royal Holloway, University of London (2018)
+- International Masters Scholarship, Royal Holloway, University of London (2018)
 - Beijing Municipal Education Funded Project (2016)
 - Multiple Academic Scholarships, People’s Public Security University of China (2013–2016)
 - Meiya Pico Dream Scholarship, Xiamen Meiya Pico Information Co., Ltd. (2015)
