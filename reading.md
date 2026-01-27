@@ -20,11 +20,11 @@ This list is continuously evolving as part of my research and technical developm
 
 - The StatQuest Illustrated Guide to Neural Networks and AI
 
+- Evading EDR, The Definitive Guide to Defeating Endpoint Detection Systems
+
 - Red Teaming AI Attacking Defending Intelligent Systems (AI Security Book 1) 
 
 - The Developer's Playbook for Large Language Model Security: Building Secure AI Applications
-
-- Exploiting Software How to Break Code
 
 ## Currently Learning
 

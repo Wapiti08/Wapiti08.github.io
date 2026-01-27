@@ -9,6 +9,6 @@ permalink: /funding/
 - Excellent Award, First Innovation Competition by DBAPPSecurity (2023)
 - International Masters Scholarship, Royal Holloway, University of London (2018)
 - Beijing Municipal Education Funded Project (2016)
-- Multiple Academic Scholarships, People’s Public Security University of China (2013–2016)
+- Multiple School-Level Scholarships, People’s Public Security University of China (2013–2016)
 - Meiya Pico Dream Scholarship, Xiamen Meiya Pico Information Co., Ltd. (2015)
 - Excellent Award, Scientific Research and Innovation Competition, People’s Public Security University of China (2015)
