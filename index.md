@@ -19,7 +19,12 @@ modern software ecosystems, AI pipelines, and agent-based systems, and how
 graph-based modeling and secure execution can be used to improve detection,
 forensics, and defense.
 
-In parallel, I strengthen my application security skills through continuous self-learning and hands-on practice, covering software supply chain security in industry (SLSA, SBOM), Secure SDLC, OWASP Top 10, web security testing, and DevSecOps workflows.
+In parallel, I build hands-on application security skills in software supply chain security (SLSA/SBOM), Secure SDLC, OWASP Top 10, web security testing, and DevSecOps.
+
+## Recent News
+- **2026-02** — Submit our advanced supply chain simulation work to Usenix Security
+- **2026-02** — Submit our LLM Supply Chain Security position work to LLMSC (co-located with FSE)
+- **2026-02** — Submit our Industry track paper to FSE
 
 <p style="text-align: center; font-size: 0.95em;">
   <a href="https://newt-tan.medium.com">Medium</a> ·
