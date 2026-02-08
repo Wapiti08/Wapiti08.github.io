@@ -24,7 +24,8 @@ In parallel, I build hands-on application security skills in software supply cha
 ## Recent News
 - **2026-02** — Submit our advanced supply chain simulation work to Usenix Security
 - **2026-02** — Submit our LLM Supply Chain Security position work to LLMSC (co-located with FSE)
-- **2026-02** — Submit our Industry track paper to FSE
+- **2026-01** — Submit our [Operational Runtime Open-Source Security Paper](https://arxiv.org/pdf/2601.06948) to FSE Industry Track
+- **2026-01** — Submit our [MCP Runtime Security Paper](https://arxiv.org/pdf/2601.01241) to EuroSec (EuroSys)
 
 <p style="text-align: center; font-size: 0.95em;">
   <a href="https://newt-tan.medium.com">Medium</a> ·
