@@ -30,6 +30,8 @@ This list is continuously evolving as part of my research and technical developm
 
 - The Rust Programming Language
 
+- Application Security - The Complete Guide
+
 - Learning on Graphs Conference 2025
 
 - Machine Learning Security - Seminars by University of Cagliari 

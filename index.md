@@ -19,7 +19,7 @@ modern software ecosystems, AI pipelines, and agent-based systems, and how
 graph-based modeling and secure execution can be used to improve detection,
 forensics, and defense.
 
-In parallel, I build hands-on application security skills in software supply chain security (SLSA/SBOM), Secure SDLC, OWASP Top 10, web security testing, and DevSecOps.
+In parallel, I build hands-on application security skills in software supply chain security (SLSA/SBOM), Secure SDLC, OWASP Top 10, web security testing, and DevSecOps/LLMSecOps.
 
 ## Recent News
 - **2026-02** — Submit our advanced supply chain simulation work to Usenix Security
