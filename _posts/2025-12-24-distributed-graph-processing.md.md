@@ -22,3 +22,25 @@ complexity.
 The goal of this post is to provide a practitioner-oriented perspective on how
 different language and runtime choices affect the design of scalable graph
 processing pipelines in real-world systems.
+
+## Problem Context: Attack Chain Analysis
+In security analytics, we often need to trace propagation paths through system dependency graphs. A typical scenario involves:
+- Node: system entities (processes, files, network connections)
+- Edges: dependencies or information flows
+- Graph size: 10⁶ to 10⁸ nodes, 10⁷ to 10⁹ edges
+- Query pattern: Breadth-first search (BFS) or reachability analysis from multiple seed nodes
+- Constraint: real-time or near-real-time response requirements
+
+The challenge is to parallelize graph traversal while managaing:
+1. Load balancing across workers
+2. Memory overhead from duplicate work
+3. Synchronization costs
+4. Cache efficiency
+
+## Approach 1: Python with Numba JIT (just-in-time)
+
+Implementation:
+
+```
+
+```

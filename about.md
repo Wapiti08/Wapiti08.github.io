@@ -8,7 +8,7 @@ permalink: /about/
 I am Zhuoran Tan, currently pursuing a PhD in Computing Science at the University of Glasgow
 (2023–2026). 
 
-My research background spans software supply/AI security (focusing on runtime detection/defence), cyber defence (practical deployment, multi-source, data fusion), and graph-based learning (graph mining and temporal graph analysis).
+My research background spans software supply/AI security (focusing on runtime detection/defence at system-level), cyber defence (practical deployment, multi-source, data fusion), and graph-based learning (graph mining and temporal graph analysis).
 
 I primarily work with Python, Go, and Rust, and I have a strong interest in secure system design and practical cyber defence.
 
