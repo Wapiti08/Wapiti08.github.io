@@ -14,5 +14,6 @@ My contributions include:
 - [OSPTrack](https://github.com/Wapiti08/OSPTrack): Labelled dataset for simulated package execution with package-analysis
 - Synthetic datasets and benchmarks for AI and supply chain security (coming soon)
 - [MCP-SandboxScan](https://github.com/Wapiti08/MCP-SandboxScan): [A WASM-based Secure Execution and Hybrid Analysis Framework for MCP Tools](https://arxiv.org/html/2601.01241v1)
+- [MCP-Attack-Suite](https://github.com/Wapiti08/mcp-attack-suite): Exposing Developer Pitfalls in MCP Tool Server Security under Multi-Vector Attacks to provide guidance for developer for secure agent/LLM design (arvix coming soon)
 
 Most projects are released alongside academic publications to support open and verifiable research. For more info please check my github.
