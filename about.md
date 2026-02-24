@@ -8,7 +8,7 @@ permalink: /about/
 I am Zhuoran Tan, currently pursuing a PhD in Computing Science at the University of Glasgow
 (2023–2026). 
 
-My research background spans software supply/AI security (focusing on runtime detection/defence at system-level), cyber defence (practical deployment, multi-source, data fusion), and graph-based learning (graph mining and temporal graph analysis).
+My research background spans software supply/AI security (focusing on runtime detection/defence in depth), cyber defence (practical deployment, multi-source, data fusion), and graph-based learning (graph mining and temporal graph analysis).
 
 I primarily work with Python, Go, and Rust, and I have a strong interest in secure system design and practical cyber defence.
 
@@ -19,9 +19,9 @@ I primarily work with Python, Go, and Rust, and I have a strong interest in secu
 With over seven years of industry-orient experience in research and development related to security
 analytics, cyber defence system, threat intelligence analysis, and trustworthy AI systems.
 
-- LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain, MCP, and RAG.
-
 - Security Detection Pipelines: WAF / traffic / log / multi-source data anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek, Neo4j).
+
+- LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain, MCP, and RAG.
 
 - Threat Intelligence & Graph Analytics: threat intel analysis and graph-based learning for security analytics.
 
@@ -76,7 +76,7 @@ security, LLM safety, and temporal graph learning.
 **University of Edinburgh**, United Kingdom  
 *Feb 2026 – May 2026*  
 
-Visiting research collaboration with Dr Marc Juarez, potentially focusing on AI security,
+Visiting research collaboration with Dr Marc Juarez, focusing on Agent/DNN based backdoor detection
 
 ### MSc in Information Security (with a Year in Industry)  
 **Royal Holloway, University of London**, United Kingdom  

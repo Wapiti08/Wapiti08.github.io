@@ -22,6 +22,7 @@ forensics, and defense.
 In parallel, I build hands-on application security skills in software supply chain security (SLSA/SBOM), Secure SDLC, OWASP Top 10, web security testing, and DevSecOps/LLMSecOps.
 
 ## Recent News
+- **2026-02** — Started my visiting to University of Edinburgh
 - **2026-02** — Submit our mcp attack benchmark work to SOUPS 2026
 - **2026-02** — Submit our advanced supply chain simulation work to Usenix Security 2026
 - **2026-02** — Submit our LLM Supply Chain Security position work to LLMSC (co-located with FSE)
