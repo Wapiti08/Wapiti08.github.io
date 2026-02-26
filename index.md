@@ -22,11 +22,12 @@ forensics, and defense.
 In parallel, I build hands-on application security skills in software supply chain security (SLSA/SBOM), Secure SDLC, OWASP Top 10, web security testing, and DevSecOps/LLMSecOps.
 
 ## Recent News
+- **2026-02** — Resubmit our Temporal Graph Modeling for Root-Cause Vulnerability to ICSME 2026
 - **2026-02** — Started my visiting to University of Edinburgh
 - **2026-02** — Submit our mcp attack benchmark work to SOUPS 2026
 - **2026-02** — Submit our advanced supply chain simulation work to Usenix Security 2026
 - **2026-02** — Submit our LLM Supply Chain Security position work to LLMSC (co-located with FSE)
-- **2026-01** — Submit our [Operational Runtime Open-Source Security Paper](https://arxiv.org/pdf/2601.06948) to FSE Industry Track
+- **2026-01** — Resubmit our [Operational Runtime Open-Source Security Paper](https://arxiv.org/pdf/2601.06948) to FSE Industry Track
 - **2026-01** — Submit our [MCP Runtime Security Paper](https://arxiv.org/pdf/2601.01241) to EuroSec (EuroSys)
 
 <p style="text-align: center; font-size: 0.95em;">
