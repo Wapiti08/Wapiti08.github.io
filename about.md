@@ -55,8 +55,8 @@ My research interests include:
 *2023 – 2026 (expected)*  
 
 Supervisors:  
-- Dr Christos Anagnostopoulos  
 - Prof Jeremy Singer  
+- Dr Christos Anagnostopoulos  
 
 External Supervisors:
 - Prof Ashkan Sami (Edinburgh Napier University)
