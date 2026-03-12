@@ -1,6 +1,6 @@
 ---
-title: Bio
-permalink: /bio/
+title: About
+permalink: /about/
 ---
 
 ## Academic Journey

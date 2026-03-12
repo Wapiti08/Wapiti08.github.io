@@ -28,7 +28,7 @@ This list is continuously evolving as part of my research and technical developm
 
 ## Currently Learning
 
-- AIRT - AI Red Team Academy
+- AIRT - AI Red Team Academy (OSAI Equivalent Course)
 
 - The Rust Programming Language
 
