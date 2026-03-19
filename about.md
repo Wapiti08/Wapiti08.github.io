@@ -16,7 +16,7 @@ I primarily work with Python, Go, and Rust, and I have a strong interest in secu
 
 ## Industry Stack
 
-With over seven years of industry-orient experience in research and development related to security
+With over seven years of industry-orient experience in research and development related to monitoring-based security
 analytics, cyber defence system, threat intelligence analysis, and trustworthy AI systems.
 
 - Security Detection Pipelines: WAF / traffic / log / multi-source data anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek, Neo4j).
