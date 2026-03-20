@@ -35,4 +35,8 @@ In parallel, I build hands-on application security skills in software supply cha
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=S07ZhSUAAAAJ">Google Scholar</a> ·
   <a href="https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/">LinkedIn</a> ·
   <a href="https://www.researchgate.net/profile/Zhuoran-Tan-2?ev=hdr_xprf">ResearchGate</a>
+  <a href="https://www.hackerrank.com/profile/wapiti08">Hackerrank</a>
+  <a href="https://leetcode.com/u/Wapiti08/">LeetCode</a>
+  <a href="https://www.hackerearth.com/@Wapiti09/">Hackerearth</a>
+  <a href="https://app.hackthebox.com/users/181704?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">Hack The Box</a>
 </p>
