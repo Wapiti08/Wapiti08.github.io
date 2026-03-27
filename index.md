@@ -35,8 +35,8 @@ In parallel, I build hands-on application security skills in software supply cha
   <a href="https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/">LinkedIn</a>
   <br>
   <a href="https://www.researchgate.net/profile/Zhuoran-Tan-2?ev=hdr_xprf">ResearchGate</a> ·
-  <a href="https://www.hackerrank.com/profile/wapiti08">Hackerrank</a> ·
   <a href="https://leetcode.com/u/Wapiti08/">LeetCode</a> ·
+  <a href="https://tryhackme.com/p/Newt08">TryHackMe</a> ·
   <a href="https://app.hackthebox.com/users/181704?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">Hack The Box</a> ·
   <a href="https://www.credly.com/users/zhuoran-tan/badges#credly">Credly</a>
 </p>
