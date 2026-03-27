@@ -19,19 +19,23 @@ I primarily work with Python, Go, and Rust, and I have a strong interest in secu
 With over seven years of industry-orient experience in research and development related to monitoring-based security
 analytics, cyber defence system, threat intelligence analysis, and trustworthy AI systems.
 
-- Security Detection Pipelines: WAF / traffic / log / multi-source data anomaly detection/classification; end-to-end pipelines with automated retraining and monitoring (e.g., Airflow, ELK, Grafana, Zeek, Neo4j).
+- Security Detection Pipelines: WAF / traffic / log / multi-source data anomaly detection/classification; SIEM-based detection and IOC matching; end-to-end pipelines with automated retraining and monitoring (Airflow, ELK, Grafana, Zeek, Neo4j).
 
 - LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain, MCP, and RAG.
 
-- Threat Intelligence & Graph Analytics: threat intel analysis and graph-based learning for security analytics.
+- Web Security: OWASP Top 10 (SQLi, XSS, CSRF), authentication/session attacks, web vulnerability assessment using Burp Suite.
+
+- Security Engineering & Blue Team: log analysis (Windows/Linux), SIEM workflows, network traffic inspection (Wireshark/Zeek), IOC-based detection
+
+- Threat Intelligence & Graph Analytics: threat intel analysis, attack modeling, and graph-based learning for security analytics.
 
 - Systems Engineering: secure backend/service development for cyber defence systems with Python / Go / Rust.
 
 - Data & Retrieval: vector search / semantic retrieval with Milvus VectorDB. 
 
-- MLOPs: git, Container, SLSA, CI/CD, Hugging Face, Dask, Numba, Ray, DVC, MLflow.
+- MLOps: git, Container, SLSA, CI/CD, Hugging Face, Dask, Numba, Ray, DVC, MLflow.
 
-- Cloud: AWS for Machine Learning, Azure for Log Analytics Workspace, BigQuery.
+- Cloud: AWS for Machine Learning, Azure Log Analytics Workspace, BigQuery.
 
 ---
 
