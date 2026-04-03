@@ -33,7 +33,7 @@ I write production-grade tools in Python, Go, and Rust, and contribute actively 
   <a href="https://newt-tan.medium.com">Medium</a> ·
   <a href="https://github.com/Wapiti08">GitHub</a> ·
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=S07ZhSUAAAAJ">Google Scholar</a> ·
-  <a href="https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/">LinkedIn</a> ·
   <a href="https://www.researchgate.net/profile/Zhuoran-Tan-2?ev=hdr_xprf">ResearchGate</a> ·
   <a href="https://www.credly.com/users/zhuoran-tan/badges#credly">Credly</a>
 </p>
