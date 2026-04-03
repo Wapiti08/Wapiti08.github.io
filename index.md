@@ -22,7 +22,7 @@ forensics, and defense.
 In parallel, I build hands-on application security skills in software supply chain security (SLSA/SBOM), Secure SDLC, OWASP Top 10, web security testing, and DevSecOps/LLMSecOps. An active open source contributor.
 
 ## Recent News
-- **2026-03** — !! Our LLM Supply Chain Security position work has been accepted at LLMSC (co-located with FSE, arxiv coming soon)
+- **2026-03** — !! Our [LLM Supply Chain Security position work](https://arxiv.org/abs/2603.28988) has been accepted at LLMSC (co-located with FSE 2026)
 - **2026-03** — Check the new arxiv for [advanced supply chain simulation](https://arxiv.org/abs/2603.16694)
 - **2026-02** — Started my visiting to University of Edinburgh
 
