@@ -108,10 +108,11 @@ I previously held several professional security-related certificates. Some certi
 - Martial arts and disciplined physical training
 - Endurance sports and racket sports
 
+---
 
 ## Other Links
 <p style="text-align: center; font-size: 0.95em;">
   <a href="https://leetcode.com/u/Wapiti08/">LeetCode</a> ·
   <a href="https://tryhackme.com/p/Newt08">TryHackMe</a> ·
-  <a href="https://app.hackthebox.com/users/181704?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">Hack The Box</a> ·
+  <a href="https://app.hackthebox.com/users/181704?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">Hack The Box</a>
 </p>
