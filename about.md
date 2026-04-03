@@ -5,50 +5,29 @@ permalink: /about/
 
 ## Academic Journey
 
-I am Zhuoran Tan, currently pursuing a PhD in Computing Science at the University of Glasgow
-(2023–2026). 
+I am Zhuoran Tan, a PhD candidate in Computing Science at the University of Glasgow (2023–2026).
+My research focuses on how complex, multi-stage attacks propagate through software supply chains and AI pipelines, and how to detect and attribute them automatically. I combine graph-based learning (temporal graph analysis, provenance graph mining) with runtime behavioral analysis to build detection systems that go beyond static rules.
 
-My research background spans software supply/AI security (focusing on runtime detection/defence in depth), cyber defence (practical deployment, multi-source, data fusion), and graph-based learning (graph mining and temporal graph analysis).
+Concretely, my published work covers:
 
-I primarily work with Python, Go, and Rust, and I have a strong interest in secure system design and practical cyber defence.
+- Supply chain threat modeling — systematic analysis of APT campaigns that exploit software dependencies (IEEE IoT Journal)
 
----
+- Automated attack attribution — causal graph construction from parallel semantic log parsing (IEEE ICDCS)
 
-## Industry Stack
+- Open-source execution datasets — labeled execution traces for reproducible security research (IEEE MSR)
 
-With over seven years of industry-orient experience in research and development related to monitoring-based security
-analytics, cyber defence system, threat intelligence analysis, and trustworthy AI systems.
+- LLM supply chain security — position work on securing LLM development and deployment pipelines (LLMSC @ FSE 2026)
 
-- Security Detection Pipelines: WAF / traffic / log / multi-source data anomaly detection/classification; SIEM-based detection and IOC matching; end-to-end pipelines with automated retraining and monitoring (Airflow, ELK, Grafana, Zeek, Neo4j).
-
-- LLM / AI Safety & Security: jailbreak & prompt-injection evaluation, safety guardrails, deepfake detection; PEFT fine-tuning (LoRA/AdaLoRA) and benchmark building, with knowledge on Langchain, MCP, and RAG.
-
-- Web Security: OWASP Top 10 (SQLi, XSS, CSRF), authentication/session attacks, web vulnerability assessment using Burp Suite.
-
-- Security Engineering & Blue Team: log analysis (Windows/Linux), SIEM workflows, network traffic inspection (Wireshark/Zeek), IOC-based detection
-
-- Threat Intelligence & Graph Analytics: threat intel analysis, attack modeling, and graph-based learning for security analytics.
-
-- Systems Engineering: secure backend/service development for cyber defence systems with Python / Go / Rust.
-
-- Data & Retrieval: vector search / semantic retrieval with Milvus VectorDB. 
-
-- MLOps: git, Container, SLSA, CI/CD, Hugging Face, Dask, Numba, Ray, DVC, MLflow.
-
-- Cloud: AWS for Machine Learning, Azure Log Analytics Workspace, BigQuery.
+I work primarily with Python, Go, and Rust, and have a strong focus on building tools that are deployable, not just publishable.
 
 ---
 
-## Research Interests
+## Technical Capabilities
 
-My research interests include:
-
-- **AI Systems Security**
-- **Software & AI Supply Chain Security**
-- **LLM Safety and Secure Agent Design**
-- **Kernel and Container Security**
-- **Temporal Graph Learning and Graph Optimization**
-- **Trustworthy AI and AI for Security**
+- **Detection & Analysis Pipelines** End-to-end threat detection — from data collection (Zeek, ELK, Airflow) through feature engineering and model training to alert triage. Experience with graph databases (Neo4j) and vector search (Milvus) for security analytics.
+- **Security Engineering** Hands-on application security across the SDLC: OWASP Top 10 testing, SBOM/SLSA compliance, WAF tuning, log-based IOC matching. Practical blue-team experience with SIEM workflows and network traffic inspection.
+- **AI/LLM Security** Jailbreak and prompt-injection evaluation, safety guardrails, model supply chain integrity. Familiar with PEFT fine-tuning, RAG pipelines, and LLMSecOps practices.
+- **Systems & Infrastructure** Backend and tooling development in Go and Rust. MLOps with containers, CI/CD, DVC, and MLflow. Cloud experience with AWS ML, Azure Log Analytics, and BigQuery.
 
 ---
 
@@ -128,3 +107,11 @@ I previously held several professional security-related certificates. Some certi
 - Strategy games (Go, Chinese Chess)
 - Martial arts and disciplined physical training
 - Endurance sports and racket sports
+
+
+## Other Links
+<p style="text-align: center; font-size: 0.95em;">
+  <a href="https://leetcode.com/u/Wapiti08/">LeetCode</a> ·
+  <a href="https://tryhackme.com/p/Newt08">TryHackMe</a> ·
+  <a href="https://app.hackthebox.com/users/181704?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">Hack The Box</a> ·
+</p>

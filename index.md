@@ -11,15 +11,17 @@ layout: page
 
 > *If it’s right, time will catch up.*
 
-I am a PhD candidate in Computing Science at the University of Glasgow, focusing on
-**Software and AI supply chain security, AI Security, Anomaly/APT detection, and graph-based learning**.
+PhD Candidate · Building ML-driven detection systems for AI/software supply chain threats
 
-My research investigates how complex, multi-stage attacks propagate across
-modern software ecosystems, AI pipelines, and agent-based systems, and how
-graph-based modeling and secure execution can be used to improve detection,
-forensics, and defense.
+I am a PhD candidate in Computing Science at the University of Glasgow, building detection and defense systems for modern software and AI supply chains.
+My work sits at the intersection of security engineering and machine learning: I design graph-based models and runtime analysis pipelines that turn raw logs, execution traces, and dependency graphs into actionable threat signals — from detecting malicious open-source packages to reconstructing multi-stage APT campaigns.
+I write production-grade tools in Python, Go, and Rust, and contribute actively to open-source security projects.
 
-In parallel, I build hands-on application security skills in software supply chain security (SLSA/SBOM), Secure SDLC, OWASP Top 10, web security testing, and DevSecOps/LLMSecOps. An active open source contributor.
+## Research Interests
+
+- Software & AI Supply Chain Security — dependency attacks, model poisoning, SBOM/SLSA enforcement
+- Threat Detection & Attack Attribution — log parsing, causal reasoning, anomaly detection at scale
+- Graph Learning for Security — temporal graphs, provenance graphs, attack-chain reconstruction
 
 ## Recent News
 - **2026-03** — !! Our [LLM Supply Chain Security position work](https://arxiv.org/abs/2603.28988) has been accepted at LLMSC (co-located with FSE 2026)
@@ -32,10 +34,6 @@ In parallel, I build hands-on application security skills in software supply cha
   <a href="https://github.com/Wapiti08">GitHub</a> ·
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=S07ZhSUAAAAJ">Google Scholar</a> ·
   <a href="https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/">LinkedIn</a>
-  <br>
   <a href="https://www.researchgate.net/profile/Zhuoran-Tan-2?ev=hdr_xprf">ResearchGate</a> ·
-  <a href="https://leetcode.com/u/Wapiti08/">LeetCode</a> ·
-  <a href="https://tryhackme.com/p/Newt08">TryHackMe</a> ·
-  <a href="https://app.hackthebox.com/users/181704?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs">Hack The Box</a> ·
   <a href="https://www.credly.com/users/zhuoran-tan/badges#credly">Credly</a>
 </p>
