@@ -2,7 +2,12 @@
 
 ## layout: page
 
+---
 
+<img src="/assets/images/profile/1707059106215.jpeg"
+     alt="Zhuoran Tan"
+     width="180"
+     style="border-radius: 50%; display: block; margin: 0 auto 15px;">
 
 ## Zhuoran (Newt) Tan
 
