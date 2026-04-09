@@ -25,7 +25,7 @@ I work primarily with Python, Go, and Rust, and have a strong focus on building 
 ## Technical Capabilities
 
 - **Detection & Analysis Pipelines** End-to-end threat detection — from data collection (Zeek, ELK, Airflow) through feature engineering and model training to alert triage. Experience with graph databases (Neo4j) and vector search (Milvus) for security analytics.
-- **Security Engineering** Hands-on application security across the SDLC: OWASP Top 10 testing, SBOM/SLSA compliance, WAF tuning, log-based IOC matching. Practical blue-team experience with SIEM workflows and network traffic inspection.
+- **Security Engineering (DevSecOps)** Hands-on application security across the SDLC: OWASP Top 10 testing, SBOM/SLSA compliance, WAF tuning, log-based IOC matching. Practical blue-team experience with SIEM workflows and network traffic inspection.
 - **AI/LLM Security** Jailbreak and prompt-injection evaluation, safety guardrails, model supply chain integrity. Familiar with PEFT fine-tuning, RAG pipelines, and LLMSecOps practices.
 - **Systems & Infrastructure** Backend and tooling development in Go and Rust. MLOps with containers, CI/CD, DVC, and MLflow. Cloud experience with AWS ML, Azure Log Analytics, and BigQuery.
 

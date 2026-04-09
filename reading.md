@@ -18,25 +18,19 @@ This list is continuously evolving as part of my research and technical developm
 
 ## Currently Reading
 
-- The StatQuest Illustrated Guide to Neural Networks and AI
-
-- Evading EDR, The Definitive Guide to Defeating Endpoint Detection Systems
+- The Developer's Playbook for Large Language Model Security: Building Secure AI Applications
 
 - Red Teaming AI Attacking Defending Intelligent Systems (AI Security Book 1) 
 
-- The Developer's Playbook for Large Language Model Security: Building Secure AI Applications
+- The DevSecOps Playbook - Deliver Continuous Security at Speed
 
 ## Currently Learning
+
+- Security Engineer - TryHackMe
 
 - AIRT - AI Red Team Academy (OSAI Equivalent Course)
 
 - The Rust Programming Language
-
-- Application Security - The Complete Guide
-
-- Learning on Graphs Conference 2025
-
-- Machine Learning Security - Seminars by University of Cagliari 
 
 ---
 
