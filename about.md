@@ -18,6 +18,13 @@ Concretely, my published work covers:
 
 - LLM supply chain security — position work on securing LLM development and deployment pipelines (LLMSC @ FSE 2026)
 
+Before my PhD, I worked in industry on detection and MLOps-style pipelines (ELK, Airflow, anomaly detection). Selected writing and talks from that period:
+
+- [Combining Artificial Intelligence with Threat Intelligence](https://www.jumpsec.com/guides/combining-artificial-intelligence-with-threat-intelligence/) — JUMPSEC guide on sourcing, consuming, and operationalising threat intel with ML
+- [Implementation and Dynamic Generation for Tasks in Apache Airflow](https://labs.jumpsec.com/implementation-and-dynamic-generation-for-tasks-in-apache-airflow/) — JUMPSEC Labs technical note on DAG structure, dynamic tasks, and cross-DAG dependencies
+- [Talk involving projects I did](https://youtu.be/y0MzGNzCqbE?t=791) — YouTube segment
+- [JUMPSEC works on a prototype lightweight anomaly detection system](https://securitysenses.com/posts/jumpsec-works-prototype-lightweight-anomaly-detection-system) — SecuritySenses overview of the Airflow + Deeplog-style prototype and design goals
+
 I work primarily with Python, Go, and Rust, and have a strong focus on building tools that are deployable, not just publishable.
 
 ---
@@ -57,7 +64,7 @@ security, LLM safety, and temporal graph learning.
 
 ### Visiting PhD Researcher 
 **University of Edinburgh**, United Kingdom  
-*Feb 2026 – May 2026*  
+*Feb 2026 – July 2026*  
 
 Visiting research collaboration with Dr Marc Juarez, focusing on Agent/DNN based backdoor detection
 
