@@ -31,6 +31,7 @@ I write production-grade tools in Python, Go, and Rust, and contribute actively 
 
 ## Recent News
 
+- **2026-04** — Check the new arxiv for [MCP Security Evaluation Work](https://arxiv.org/abs/2604.21477), which covers multi-modal attacks, jailbreak, tool injections, etc.
 - **2026-03** — !! Our [LLM Supply Chain Security position work](https://arxiv.org/abs/2603.28988) has been accepted at LLMSC (co-located with FSE 2026)
 - **2026-03** — Check the new arxiv for [advanced supply chain simulation](https://arxiv.org/abs/2603.16694)
 - **2026-02** — Started my visiting to University of Edinburgh
