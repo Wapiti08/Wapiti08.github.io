@@ -15,12 +15,11 @@
 
 PhD Candidate · Security Researcher/Engineer · Software & AI Supply Chain Security · Application & AI Security
 
-I am a PhD candidate in Computing Science at the University of Glasgow, building detection and defense systems for modern software and AI supply chains.
+I am a PhD candidate in Computing Science at the University of Glasgow, working on software and AI supply chain security, application security, and AI-native threat detection.
 
-My work sits at the intersection of security engineering and machine learning: I design graph-based models and runtime analysis pipelines that turn raw logs, execution traces, and dependency graphs into actionable threat signals — from detecting malicious open-source packages to reconstructing multi-stage APT campaigns.
+My work sits at the intersection of security engineering and machine learning: I build graph-based models, runtime analysis pipelines, and security tools that turn logs, execution traces, dependency metadata, and AI system behaviors into actionable threat signals.
 
-
-Alongside my research, I build production-oriented security tools in Python, Go, and Rust, with cross-ecosystem security analysis experience across JavaScript/TypeScript, JVM systems including Java and Scala, C/C++, Bash, Docker, and CI/CD workflows. I am particularly interested in secure SDLC, SBOM/SLSA provenance, threat modeling, runtime sandboxing, and product security for AI-enabled systems.
+I build production-oriented tools in Python, Go, and Rust, with cross-ecosystem security analysis experience across JavaScript/TypeScript, JVM systems, C/C++, Bash, Docker, and CI/CD workflows.
 
 ## Research Interests
 
