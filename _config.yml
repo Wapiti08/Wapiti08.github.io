@@ -16,10 +16,10 @@ header_pages:
   - publications.md
   - blog.md
   - collaborations.md
+  - reading.md
   - funding.md
   - opensource.md
   - gallery.md
-  - reading.md
   # - cv.md
 
 markdown: kramdown
