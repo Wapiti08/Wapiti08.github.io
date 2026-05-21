@@ -88,7 +88,7 @@ telemetry design, detection engineering, and defensive validation.
 
 ## Finished Reading
 
-### The Developer's Playbook for Large Language Model Security - finished
+### The Developer's Playbook for Large Language Model Security 
 
 This book is useful for connecting AI security risks with practical engineering
 decisions. I am using it to think through how LLM applications should be designed,
@@ -101,7 +101,7 @@ Knowledge gained:
 - Risks around retrieval, agents, plugins, and external actions
 - Practical controls for building safer AI systems
 
-### The DevSecOps Playbook - finished
+### The DevSecOps Playbook 
 
 This book supports my interest in secure software delivery and supply chain
 security. I am reading it alongside my work on CI/CD security, dependency risk,
