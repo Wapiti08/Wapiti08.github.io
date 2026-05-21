@@ -72,6 +72,22 @@ Key topics:
 
 ## Currently Reading
 
+### Red Teaming AI: Attacking and Defending Intelligent Systems
+
+This reading connects closely with my research interests in AI red teaming,
+multi-modal attacks, and adversarial evaluation of intelligent systems.
+
+### Evading EDR: The Definitive Guide to Defeating Endpoint Detection Systems
+
+I am reading this book to better understand how modern endpoint detection systems
+are bypassed in practice, and how those evasion patterns can inform stronger
+telemetry design, detection engineering, and defensive validation.
+
+
+---
+
+## Finished Reading
+
 ### The Developer's Playbook for Large Language Model Security - finished
 
 This book is useful for connecting AI security risks with practical engineering
@@ -85,30 +101,18 @@ Knowledge gained:
 - Risks around retrieval, agents, plugins, and external actions
 - Practical controls for building safer AI systems
 
-### Red Teaming AI: Attacking and Defending Intelligent Systems
-
-This reading connects closely with my research interests in AI red teaming,
-multi-modal attacks, and adversarial evaluation of intelligent systems.
-
-Knowledge to gain:
-
-- AI attack surfaces and abuse cases
-- Red-team planning and evaluation workflows
-- Defensive thinking for model-integrated applications
-- How offensive testing can improve AI system safety
-
-### The DevSecOps Playbook
+### The DevSecOps Playbook - finished
 
 This book supports my interest in secure software delivery and supply chain
 security. I am reading it alongside my work on CI/CD security, dependency risk,
 and security automation.
 
-Knowledge to gain:
+Knowledge gained:
 
 - Integrating security into development workflows
 - CI/CD security controls and automation
 - Secure release and deployment practices
-- Balancing delivery speed with security assurance
+- Common Techniques/Tools used in DAST, SAST, IAST, RASP
 
 ---
 
