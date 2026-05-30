@@ -19,7 +19,7 @@ I am a PhD candidate in Computing Science at the University of Glasgow, working 
 
 My work sits at the intersection of security engineering and machine learning: I build graph-based models, runtime analysis pipelines, and security tools that turn logs, execution traces, dependency metadata, and AI system behaviors into actionable threat signals.
 
-I build production-oriented tools in Python, Go, and Rust, with cross-ecosystem security analysis experience across JavaScript/TypeScript, JVM systems, C/C++, Bash, Docker, and CI/CD workflows.
+I build production-oriented tools in Python, Go, and Rust, with cross-ecosystem security analysis experience across NPM (node.js), JVM systems, C/C++, Bash, Docker, and CI/CD workflows.
 
 ## Research Interests
 
@@ -29,7 +29,7 @@ I build production-oriented tools in Python, Go, and Rust, with cross-ecosystem 
 - Graph Learning for Security — temporal graphs, provenance graphs, attack-chain reconstruction
 
 ## Recent News
-- **2026-05** - !! Our co-authored paper, *FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources*, has been accepted as a regular paper at ICML 2026. Congrats to Xiao Ke!
+- **2026-05** - !! Our co-authored paper, *FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources*, has been accepted as a regular paper at ICML 2026. Congrats to [Xiao Ke](https://shock-xiaoke.github.io/)!
 - **2026-04** — Check the new arxiv for [MCP Security Evaluation Work](https://arxiv.org/abs/2604.21477), which covers multi-modal attacks, jailbreak, tool injections, etc.
 - **2026-03** — !! Our [LLM Supply Chain Security position work](https://arxiv.org/abs/2603.28988) has been accepted at LLMSC (co-located with FSE 2026)
 - **2026-03** — Check the new arxiv for [advanced supply chain simulation](https://arxiv.org/abs/2603.16694)
