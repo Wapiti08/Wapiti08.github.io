@@ -30,7 +30,7 @@ to my papers and open-source projects.
 
 ## Recent Posts
 
-For new research notes and security writeups, follow me on [Medium](https://newt-tan.medium.com/) or subscribe via [RSS Feed](/feed.xml).
+For new research notes and security writeups, follow me on [Medium](https://newt-tan.medium.com/) or subscribe via [RSS Feed](https://wapiti08.github.io/feed.xml).
 
 <ul>
 {% for post in site.posts limit:2 %}
