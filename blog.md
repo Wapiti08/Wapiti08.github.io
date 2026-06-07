@@ -40,7 +40,7 @@ Future long-form and research-oriented posts will be **hosted directly on this s
 ## Recent Posts
 
 <ul>
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:2 %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <small>({{ post.date | date: "%Y-%m-%d" }})</small>
