@@ -23,3 +23,8 @@ header_pages:
   # - cv.md
 
 markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+url: "https://wapiti08.github.io"

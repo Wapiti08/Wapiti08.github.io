@@ -28,16 +28,9 @@ to my papers and open-source projects.
 
 ---
 
-## 🔗 External Writing
-
-Some articles are currently published on Medium for broader dissemination.
-Future long-form and research-oriented posts will be **hosted directly on this site**.
-
-👉 Medium profile: https://newt-tan.medium.com/
-
----
-
 ## Recent Posts
+
+For new research notes and security writeups, follow me on [Medium](https://newt-tan.medium.com/) or subscribe via [RSS Feed](/feed.xml).
 
 <ul>
 {% for post in site.posts limit:2 %}
