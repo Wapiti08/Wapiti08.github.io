@@ -49,6 +49,7 @@ Supervisors:
 - Dr Christos Anagnostopoulos  
 
 External Supervisors:
+- Dr Yutian Tang (University of Glasgow)
 - Prof Ashkan Sami (Edinburgh Napier University)
 - Dr Marc Juarez Miro (The University of Edinburgh)
 
