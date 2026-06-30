@@ -29,6 +29,7 @@ I build production-oriented tools in Python, Go, and Rust, with cross-ecosystem 
 - Graph Learning for Security — temporal graphs, provenance graphs, attack-chain reconstruction
 
 ## Recent News
+- **2026-06** — !! Submitted my thesis, marking a major milestone toward the completion of my degree.
 - **2026-06** - Accepted an offer from TryHackMe as an incoming Senior AI Security Content Engineer on a part-time basis, starting July 2026.
 - **2026-05** - !! Our co-authored paper, *FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources*, has been accepted as a regular paper at ICML 2026. Congrats to [Xiao Ke](https://shock-xiaoke.github.io/)!
 - **2026-04** — Check the new arxiv for [MCP Security Evaluation Work](https://arxiv.org/abs/2604.21477), which covers multi-modal attacks, jailbreak, tool injections, etc.
