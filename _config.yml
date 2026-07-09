@@ -14,11 +14,10 @@ minima:
 header_pages:
   - about.md
   - publications.md
+  - opensource.md
   - blog.md
   - collaborations.md
-  - reading.md
   - funding.md
-  - opensource.md
   - gallery.md
   # - cv.md
 

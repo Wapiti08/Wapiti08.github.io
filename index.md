@@ -27,7 +27,7 @@ My work combines Python, Go, Rust, and Typescript engineering with security rese
 - Threat detection and attribution systems using logs, execution traces, dependency metadata, provenance graphs, and security telemetry.
 
 ## Recent News
-- **2026-06** — !! Submitted my thesis, marking a major milestone toward the completion of my degree.
+- **2026-06** — !! Submitted my thesis: **Runtime Observability and Security Analytics for Software Supply Chain Defense**, marking a major milestone toward the completion of my degree.
 - **2026-06** - Accepted an offer from TryHackMe as an incoming Senior AI Security Content Engineer on a part-time basis, starting July 2026.
 - **2026-05** - !! Our co-authored paper, *FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources*, has been accepted as a regular paper at ICML 2026. Congrats to [Xiao Ke](https://shock-xiaoke.github.io/)!
 
