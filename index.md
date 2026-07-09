@@ -13,20 +13,18 @@
 
 > *If it’s right, time will catch up.*
 
-PhD Candidate · Security Researcher/Engineer · Software & AI Supply Chain Security · Application & AI Security
+LLM Agent Security · Runtime Sandboxing · AI & Software Supply Chain Defense · Threat Detection R&D
 
-I am a PhD candidate in Computing Science at the University of Glasgow, working on software and AI supply chain security, application security, and AI-native threat detection.
+I build security systems for the AI-agent era: runtime sandboxes, attack simulation frameworks, evaluation pipelines, and detection tools for LLM agents, MCP tool servers, CI/CD workflows, and open-source package ecosystems.
 
-My work sits at the intersection of security engineering and machine learning: I build graph-based models, runtime analysis pipelines, and security tools that turn logs, execution traces, dependency metadata, and AI system behaviors into actionable threat signals.
+My work combines Python, Go, and Rust engineering with security research in agentic AI, software supply chain attacks, runtime observability, and graph-based threat detection.
 
-I build production-oriented tools in Python, Go, and Rust, with cross-ecosystem security analysis experience across NPM (node.js), JVM systems, C/C++, Bash, Docker, and CI/CD workflows.
+## What I Build
 
-## Research Interests
-
-- Software & AI Supply Chain Security — dependency attacks, model poisoning, SBOM/SLSA enforcement
-- Application & Product Security — secure SDLC, threat modeling, runtime sandboxing, DevSecOps, and AI-enabled application security
-- Threat Detection & Attack Attribution — log parsing, causal reasoning, anomaly detection at scale
-- Graph Learning for Security — temporal graphs, provenance graphs, attack-chain reconstruction
+- Agentic AI security testing platforms for prompt injection, jailbreaks, tool misuse, multimodal attacks, and MCP server risks.
+- Runtime sandboxes and behavioral analysis tools for safely executing and monitoring untrusted packages, tools, and agent integrations.
+- Software and AI supply chain attack simulations covering package ecosystems, CI/CD compromise, Docker/ML pipelines, and tool-chain abuse.
+- Threat detection and attribution systems using logs, execution traces, dependency metadata, provenance graphs, and security telemetry.
 
 ## Recent News
 - **2026-06** — !! Submitted my thesis, marking a major milestone toward the completion of my degree.
