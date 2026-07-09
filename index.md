@@ -17,7 +17,7 @@ LLM Agent Security · Runtime Sandboxing · AI & Software Supply Chain Defense �
 
 I build security systems for the AI-agent era: runtime sandboxes, attack simulation frameworks, evaluation pipelines, and detection tools for LLM agents, MCP tool servers, CI/CD workflows, and open-source package ecosystems.
 
-My work combines Python, Go, and Rust engineering with security research in agentic AI, software supply chain attacks, runtime observability, and graph-based threat detection.
+My work combines Python, Go, Rust, and Typescript engineering with security research in agentic AI, software supply chain attacks, runtime observability, and graph-based threat detection.
 
 ## What I Build
 
