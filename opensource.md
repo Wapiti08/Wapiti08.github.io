@@ -35,6 +35,6 @@ This project evaluates how agentic systems fail under prompt injection, tool inj
 
 SynthChain simulates realistic software and AI supply chain compromise scenarios across package ecosystems, CI/CD workflows, Docker/ML pipelines, and cloud-connected development environments.
 
-**Stack:** Python, Go, Docker, CI/CD, provenance graphs
+**Stack:** Python, Go, NPM, Docker, CI/CD, provenance graphs
 **Focus:** Supply chain attack simulation, runtime observability, detection benchmark design
 **Links:** [GitHub](https://github.com/Wapiti08/SSCMDataset) · [Paper / Preprint](https://arxiv.org/pdf/2603.16694)
