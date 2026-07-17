@@ -5,7 +5,7 @@ permalink: /about/
 
 ## Academic Journey
 
-I am Zhuoran Tan, a PhD candidate in Computing Science at the University of Glasgow (2023–2026).
+A PhD candidate in Computing Science at the University of Glasgow (2023–2026).
 My research focuses on how complex, multi-stage attacks propagate through software supply chains and AI pipelines, and how to detect and attribute them automatically. I combine graph-based learning (temporal graph analysis, provenance graph mining) with runtime behavioral analysis to build detection systems that go beyond static rules.
 
 Concretely, my published work covers:
@@ -68,31 +68,6 @@ security, LLM safety, and temporal graph learning.
 *Feb 2026 – July 2026*  
 
 Visiting research collaboration with Dr Marc Juarez, focusing on Agent/DNN based backdoor detection
-
-### MSc in Information Security (with a Year in Industry)  
-**Royal Holloway, University of London**, United Kingdom  
-*2018 – 2020*  
-
-During my MSc studies, I was fortunate to receive high-quality training through
-rigorous coursework delivered by outstanding and internationally recognised
-lecturers. These included Lorenzo Cavallaro (Software Security, now at UCL),
-Martin R. Albrecht (Software Testing: Theory and Practice, now at King’s College
-London), and Daniele Sgandurra (Computer Security, now an industry research
-manager), among others.
-
-### BEng in Cyber Security & Law Enforcement  
-**People’s Public Security University of China**, Beijing  
-*2013 – 2017*  
-
----
-
-## Academic Position
-
-- Reviewer: Engineering Applications of Artificial Intelligence, Computer Networks, IEEE ICC, IEEE ICDCS
-
-- Editorial Board Member: Transnational Supply Chain Resilience 
-
-- Programme Committee Member: IEEE ICDCS 2025, Open Source SecurityCon (KubeCon + CloudNativeCon NA 2025)
 
 ---
 
