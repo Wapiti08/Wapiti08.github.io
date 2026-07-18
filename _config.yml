@@ -1,0 +1,26 @@
+title: Zhuoran Tan
+author: Zhuoran Tan
+email: tzrzhuoran@outlook.com
+
+description: >
+  Research on Software & AI Supply Chain Security.
+  PhD Candidate | Security Researcher
+
+theme: minima
+
+minima:
+  skin: classic   
+  
+header_pages:
+  - about.md
+  - publications.md
+  - opensource.md
+  - blog.md
+  - collaborations.md
+  - funding.md
+  - gallery.md
+  # - cv.md
+
+markdown: kramdown
+
+url: "https://wapiti08.github.io"
