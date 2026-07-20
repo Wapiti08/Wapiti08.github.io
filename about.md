@@ -8,15 +8,7 @@ permalink: /about/
 A PhD candidate in Computing Science at the University of Glasgow (2023–2026).
 My research focuses on how complex, multi-stage attacks propagate through software supply chains and AI pipelines, and how to detect and attribute them automatically. I combine graph-based learning (temporal graph analysis, provenance graph mining) with runtime behavioral analysis to build detection systems that go beyond static rules.
 
-Concretely, my published work covers:
-
-- Supply chain threat modeling — systematic analysis of APT campaigns that exploit software dependencies (IEEE IoT Journal)
-
-- Automated attack attribution — causal graph construction from parallel semantic log parsing (IEEE ICDCS)
-
-- Open-source execution datasets — labeled execution traces for reproducible security research (IEEE MSR)
-
-- LLM supply chain security — position work on securing LLM development and deployment pipelines (LLMSC @ FSE 2026)
+My research spans software and AI supply chain security, runtime observability, attack attribution, and graph-based threat detection.
 
 Before my PhD, I worked in industry on detection and MLOps-style pipelines (ELK, Airflow, anomaly detection). Selected writing and talks from that period:
 
