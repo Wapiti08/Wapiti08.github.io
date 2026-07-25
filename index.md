@@ -28,6 +28,5 @@ My work combines Python, Go, Rust, and Typescript engineering with security rese
 - **2026-07** — 🎉 Our paper, “An Empirical Study of Observability Limits in Advanced Software Supply Chain Attacks,” (full paper coming soon) has been accepted to ACM CCS 2026! See you in The Hague, the Netherlands.
 - **2026-06** — !! Submitted my thesis: **Runtime Observability and Security Analytics for Software Supply Chain Defense**, marking a major milestone toward the completion of my degree.
 - **2026-06** - Accepted an offer from TryHackMe as an incoming Senior AI Security Content Engineer on a part-time basis, starting July 2026.
-- **2026-05** - !! Our co-authored paper, *FedHera: Towards Drift-Resilient Federated Fine-tuning with Heterogeneous Resources*, has been accepted as a regular paper at ICML 2026. Congrats to [Xiao Ke](https://shock-xiaoke.github.io/)!
 
 [Medium](https://newt-tan.medium.com) · [GitHub](https://github.com/Wapiti08) · [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=S07ZhSUAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/) · [ResearchGate](https://www.researchgate.net/profile/Zhuoran-Tan-2?ev=hdr_xprf) · [Credly](https://www.credly.com/users/zhuoran-tan/badges#credly)
