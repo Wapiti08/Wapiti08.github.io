@@ -11,7 +11,7 @@ layout: page
 
 > *If it’s right, time will catch up.*
 
-LLM Agent Security · Runtime Sandboxing · AI & Software Supply Chain Defense · Threat Detection R&D
+LLM Agent Security · Runtime Sandboxing · AI & Software Supply Chain Defense · Threat Detection R&D · Bug Bounty
 
 I build security systems for the AI-agent era: runtime sandboxes, attack simulation frameworks, evaluation pipelines, and detection tools for LLM agents, MCP tool servers, CI/CD workflows, and open-source package ecosystems.
 
