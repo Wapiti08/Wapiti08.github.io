@@ -25,7 +25,7 @@ My work combines Python, Go, Rust, and Typescript engineering with security rese
 - Threat detection and attribution systems using logs, execution traces, dependency metadata, provenance graphs, and security telemetry.
 
 ## Recent News
-- **2026-07** — After a month of intensive study, I earned the [GitHub Advanced Security certification](https://learn.microsoft.com/en-us/users/zhuorantan-4307/credentials/certification/github-advanced-security?tab=credentials-tab).
+- **2026-07** — After a month of intensive study, I earned the [GitHub Advanced Security certification](https://learn.microsoft.com/api/credentials/share/en-us/ZhuoranTan-4307/7A563BF49BC6217B?sharingId=8272E7CDCCA769AF).
 - **2026-07** — 🎉 Our paper, “An Empirical Study of Observability Limits in Advanced Software Supply Chain Attacks,” (full paper coming soon) has been (directly) accepted to ACM CCS 2026! See you in The Hague, the Netherlands.
 - **2026-06** — !! Submitted my thesis: **Runtime Observability and Security Analytics for Software Supply Chain Defense**, marking a major milestone toward the completion of my degree.
 - **2026-06** - Accepted an offer from TryHackMe as an incoming Senior AI Security Content Engineer on a part-time basis, starting July 2026.
