@@ -25,3 +25,5 @@ permalink: /publications/
 ## Talks
 
 - Invited Talk at WF-IOT 2025: Advanced Persistent Threats Based on Supply Chain Vulnerabilities: Challenges, Solutions & Future Directions
+
+- School of Computing Science, System Seminar: [An Empirical Study of Observability Limits in Advanced Software Supply Chain Attacks (28 July, 2026)](https://www.gla.ac.uk/schools/computing/research/researchsections/systems-section/events/#eventsthisweek,upcomingevents,pastevents)
