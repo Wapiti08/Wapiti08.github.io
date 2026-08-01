@@ -63,7 +63,9 @@ Visiting research collaboration with Dr Marc Juarez, focusing on Agent/DNN based
 
 ---
 
-## Certificates
+## Core Certificates
+
+- [GitHub Advanced Security certification](https://learn.microsoft.com/api/credentials/share/en-us/ZhuoranTan-4307/7A563BF49BC6217B?sharingId=8272E7CDCCA769AF)
 
 - [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/af3bbd9a-4b71-4055-b090-bb6031144e94?source=linked_in_profile)
 
