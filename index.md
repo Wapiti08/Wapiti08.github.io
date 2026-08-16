@@ -11,16 +11,14 @@ layout: page
 
 > *If it’s right, time will catch up.*
 
-LLM Agent Security · Runtime Sandboxing · AI & Software Supply Chain Defense · Threat Detection R&D · Bug Bounty
+LLM Agent Security · Runtime Analysis · Memory & Binary Analysis · Full-Lifecycle Software Security
 
-I build security systems for the AI-agent era: runtime sandboxes, attack simulation frameworks, evaluation pipelines, and detection tools for LLM agents, MCP tool servers, CI/CD workflows, and open-source package ecosystems.
+I research and build security analysis systems for AI agents and modern software ecosystems, combining Python, Go, Rust, and TypeScript engineering with runtime observability and threat detection.
 
-My work combines Python, Go, Rust, and Typescript engineering with security research in agentic AI, software supply chain attacks, runtime observability, and graph-based threat detection.
+## Research Interests & What I Build
 
-## Research Interests / What I Build
-
-- Runtime trajectory monitoring and behavioral analysis for AI agents, focusing on their decisions, tool calls, execution flows, and anomalous or highly obfuscated and stealthy behavior.
-- Memory and binary analysis for uncovering vulnerabilities, malicious behavior, and low-level indicators across compiled software and runtime environments.
+- Runtime trajectory monitoring for AI agents, focusing on decisions, tool calls, execution flows, and anomalous, obfuscated, or stealthy behavior.
+- Memory and binary analysis for uncovering vulnerabilities, malicious behavior, and low-level indicators in compiled software and runtime environments.
 - Full-lifecycle software security analysis spanning source code, dependencies, build and CI/CD pipelines, deployment environments, and runtime behavior.
 
 ## Recent News
