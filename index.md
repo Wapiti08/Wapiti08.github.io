@@ -17,12 +17,11 @@ I build security systems for the AI-agent era: runtime sandboxes, attack simulat
 
 My work combines Python, Go, Rust, and Typescript engineering with security research in agentic AI, software supply chain attacks, runtime observability, and graph-based threat detection.
 
-## What I Build
+## Research Interests / What I Build
 
-- Agentic AI security testing platforms for prompt injection, jailbreaks, tool misuse, multimodal attacks, and MCP server risks.
-- Runtime sandboxes and behavioral analysis tools for safely executing and monitoring untrusted packages, tools, and agent integrations.
-- Software and AI supply chain attack simulations covering package ecosystems, CI/CD compromise, Docker/ML pipelines, and tool-chain abuse.
-- Threat detection and attribution systems using logs, execution traces, dependency metadata, provenance graphs, and security telemetry.
+- Runtime trajectory monitoring and behavioral analysis for AI agents, focusing on their decisions, tool calls, execution flows, and anomalous or highly obfuscated and stealthy behavior.
+- Memory and binary analysis for uncovering vulnerabilities, malicious behavior, and low-level indicators across compiled software and runtime environments.
+- Full-lifecycle software security analysis spanning source code, dependencies, build and CI/CD pipelines, deployment environments, and runtime behavior.
 
 ## Recent News
 - **2026-07** — After a month of intensive study, I earned the [GitHub Advanced Security certification](https://learn.microsoft.com/api/credentials/share/en-us/ZhuoranTan-4307/7A563BF49BC6217B?sharingId=8272E7CDCCA769AF).
