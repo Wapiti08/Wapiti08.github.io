@@ -22,6 +22,7 @@ I research and build security analysis systems for AI agents and modern software
 - Full-lifecycle software security analysis spanning source code, dependencies, build and CI/CD pipelines, deployment environments, and runtime behavior.
 
 ## Recent News
+- **2026-0819** — 🎓 I passed my PhD viva with no corrections (5% of all PHD vivas)!!! 
 - **2026-07** — After a month of intensive study, I earned the [GitHub Advanced Security certification](https://learn.microsoft.com/api/credentials/share/en-us/ZhuoranTan-4307/7A563BF49BC6217B?sharingId=8272E7CDCCA769AF).
 - **2026-07** — 🎉 Our paper, “An Empirical Study of Observability Limits in Advanced Software Supply Chain Attacks,” (full paper coming soon) has been (directly) accepted to ACM CCS 2026! See you in The Hague, the Netherlands.
 - **2026-06** — !! Submitted my thesis: **Runtime Observability and Security Analytics for Software Supply Chain Defense**, marking a major milestone toward the completion of my degree.
