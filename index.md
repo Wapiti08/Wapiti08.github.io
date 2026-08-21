@@ -7,7 +7,7 @@ layout: page
      width="180"
      style="border-radius: 50%; display: block; margin: 0 auto 15px;">
 
-## Zhuoran (Newt) Tan
+## Dr Zhuoran (Newt) Tan
 
 > *If it’s right, time will catch up.*
 
