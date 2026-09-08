@@ -15,6 +15,8 @@ LLM Agent Security · Runtime Analysis · Memory & Binary Analysis · Full-Lifec
 
 I research and build security analysis systems for AI agents and modern software ecosystems, combining Python, Go, Rust, and TypeScript engineering with runtime observability and threat detection.
 
+!!! I’m open to Security Researcher and Security Engineer roles (UK-based or Global Remote), including senior positions, focused on software security, malware analysis, threat detection, or AI security. My expertise includes observability and runtime analysis.
+
 ## Research Interests & What I Build
 
 - Runtime trajectory monitoring for AI agents, focusing on decisions, tool calls, execution flows, and anomalous, obfuscated, or stealthy behavior.
