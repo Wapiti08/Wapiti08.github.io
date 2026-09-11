@@ -11,11 +11,10 @@ layout: page
 
 > *If it’s right, time will catch up.*
 
-LLM Agent Security · Runtime Analysis · Memory & Binary Analysis · Full-Lifecycle Software Security
+LLM Agent Security · Software/Web Security · Runtime Analysis · Memory & Binary Analysis (learning) 
 
 I research and build security analysis systems for AI agents and modern software ecosystems, combining Python, Go, Rust, and TypeScript engineering with runtime observability and threat detection.
 
-!!! I’m open to Security Researcher and Security Engineer roles (UK-based or Global Remote), including senior positions, focused on software security, malware analysis, threat detection, or AI security. My expertise includes observability and runtime analysis.
 
 ## Research Interests & What I Build
 
