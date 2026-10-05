@@ -63,6 +63,18 @@ Visiting research collaboration with Dr Marc Juarez, focusing on Agent/DNN based
 
 ---
 
+## Funding & Awards
+
+- Full School–Industry Scholarship (International Level), University of Glasgow (2023–2026)
+- Excellent Award, First Innovation Competition by DBAPPSecurity (2023)
+- International Masters Scholarship, Royal Holloway, University of London (2018)
+- Beijing Municipal Education Funded Project (2016)
+- Multiple School-Level Scholarships, People’s Public Security University of China (2013–2016)
+- Meiya Pico Dream Scholarship, Xiamen Meiya Pico Information Co., Ltd. (2015)
+- Excellent Award, Scientific Research and Innovation Competition, People’s Public Security University of China (2015)
+
+---
+
 ## Core Certificates
 
 - [GitHub Advanced Security certification](https://learn.microsoft.com/api/credentials/share/en-us/ZhuoranTan-4307/7A563BF49BC6217B?sharingId=8272E7CDCCA769AF)
