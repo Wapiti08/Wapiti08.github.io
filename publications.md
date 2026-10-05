@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications & Talks
 permalink: /publications/
 ---
 
@@ -41,7 +41,9 @@ Publications are grouped by their primary research focus and listed newest first
 
 ---
 
-## Talks
+## Talks & Industry Presentations
+
+Conference presentations, invited talks, and industry technical sessions.
 
 - Invited Talk at WF-IOT 2025: Advanced Persistent Threats Based on Supply Chain Vulnerabilities: Challenges, Solutions & Future Directions
 
