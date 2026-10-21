@@ -37,4 +37,4 @@ I research and build security analysis systems for AI agents and modern software
 
 </details>
 
-[Medium](https://newt-tan.medium.com) · [GitHub](https://github.com/Wapiti08) · [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=S07ZhSUAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/) · [ResearchGate](https://www.researchgate.net/profile/Zhuoran-Tan-2?ev=hdr_xprf) · [Credly](https://www.credly.com/users/zhuoran-tan/badges#credly)
+[Medium](https://newt-tan.medium.com) · [GitHub](https://github.com/Wapiti08) · [Hackerone](https://hackerone.com/wapiti08) · [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=S07ZhSUAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/) · [Credly](https://www.credly.com/users/zhuoran-tan/badges#credly)

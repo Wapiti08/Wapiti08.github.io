@@ -34,7 +34,7 @@ I work primarily with Python, Go, and Rust, and have a strong focus on building 
 
 ### PhD in Computing Science  
 **University of Glasgow**, United Kingdom  
-*2023 – 2026 (expected)*  
+*2023 – 2026*  
 
 Supervisors:  
 - Prof Jeremy Singer  
