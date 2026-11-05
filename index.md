@@ -11,16 +11,18 @@ layout: page
 
 > *If it’s right, time will catch up.*
 
-LLM Agent Security · Software/Web Security · Runtime Analysis · Memory & Binary Analysis (learning) 
+LLM Agent Security · Software/Web Security · Runtime Analysis · Applied AI
 
-I research and build security analysis systems for AI agents and modern software ecosystems, combining Python, Go, Rust, and TypeScript engineering with runtime observability and threat detection.
+My research focuses on runtime security and observability for AI agents: understanding how agents make decisions, interact with tools, and behave during execution. I build AI-assisted security analysis workflows and apply machine learning to cybersecurity, covering the full MLOps lifecycle from experimentation to deployment and monitoring.
 
+I work primarily in Python, using Go and Rust for performance-critical components. I also review C++, PHP, and TypeScript code for security issues.
 
 ## Research Interests & What I Build
 
-- Runtime trajectory monitoring for AI agents, focusing on decisions, tool calls, execution flows, and anomalous, obfuscated, or stealthy behavior.
-- Memory and binary analysis for uncovering vulnerabilities, malicious behavior, and low-level indicators in compiled software and runtime environments.
-- Full-lifecycle software security analysis spanning source code, dependencies, build and CI/CD pipelines, deployment environments, and runtime behavior.
+- **AI Agent Runtime Security & Observability** — Monitoring agent execution trajectories, decisions, and tool interactions to identify anomalous behavior and investigate obfuscated or stealthy activity.
+- **AI-Assisted Security Analysis** — Building workflows that support vulnerability discovery and malicious behavior analysis across source code, binaries, memory, and runtime traces.
+- **Applied AI & MLOps for Cybersecurity** — Developing and evaluating machine learning solutions for security tasks, with reproducible pipelines for training, deployment, and ongoing monitoring.
+- **Software Lifecycle & Supply Chain Security** — Investigating security risks across dependencies, build and CI/CD pipelines, deployment environments, and runtime behavior.
 
 ## Recent News
 
