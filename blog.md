@@ -17,9 +17,14 @@ I mainly write about:
 Most posts are written as **research notes, engineering deep dives, or companion articles**
 to my papers and open-source projects.
 
+### Where I Write
+
+- **[Medium](https://newt-tan.medium.com)** — Technical write-ups and vulnerability disclosures, including practical deep dives and security case studies.
+- **[Hashnode](https://hashnode.com/@wapiti)** — Updates on tools I build and research work, including development notes, experiments, and project insights.
+
 ---
 
-## 📌 Featured Posts
+## 📌 Featured Posts on Medium
 
 - [Practical Techniques for High-Performance Processing on Large-Scale Graphs](https://newt-tan.medium.com/practical-techniques-for-high-performance-processing-on-large-scale-graphs-379921d2c2b9)
 - [Monitoring Docker Runtime Activity on Linux with Tracee: What the Documentation Doesn’t Tell You](https://newt-tan.medium.com/monitoring-docker-runtime-activity-on-linux-with-tracee-what-the-documentation-doesnt-tell-you-6b22669e251c)
