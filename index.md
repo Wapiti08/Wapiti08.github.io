@@ -39,4 +39,4 @@ I work primarily in Python, using Go and Rust for performance-critical component
 
 </details>
 
-[Medium](https://newt-tan.medium.com) · [GitHub](https://github.com/Wapiti08) · [Hackerone](https://hackerone.com/wapiti08) · [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=S07ZhSUAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/) · [Credly](https://www.credly.com/users/zhuoran-tan/badges#credly)
+[Medium](https://newt-tan.medium.com) · [GitHub](https://github.com/Wapiti08) · [Hackerone](https://hackerone.com/wapiti08) · [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=S07ZhSUAAAAJ) · [Hashnode](https://hashnode.com/@wapiti) · [LinkedIn](https://www.linkedin.com/in/zhuoran-tan-b8ba7a155/) · [Credly](https://www.credly.com/users/zhuoran-tan/badges#credly)
