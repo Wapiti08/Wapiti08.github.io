@@ -25,7 +25,27 @@ permalink: /gallery/
     font-style: italic;
     line-height: 1.5;
   }
+
+  .gallery-photo-row {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    align-items: center;
+    gap: 0.75rem;
+  }
 </style>
+
+## ACM CCS Conference Presentation
+
+<figure class="gallery-photo">
+  <div class="gallery-photo-row">
+    <img src="/assets/images/gallery/WechatIMG295.jpg" alt="Paper presentation at ACM CCS 2026" loading="lazy">
+    <img src="/assets/images/gallery/WechatIMG296.jpg" alt="Overview of the paper review process at ACM CCS 2026" loading="lazy">
+    <img src="/assets/images/gallery/WechatIMG297.jpg" alt="ACM CCS 2026 welcome banner at the conference venue" loading="lazy">
+  </div>
+  <figcaption>Presenting my research at the ACM Conference on Computer and Communications Security (CCS) 2026.</figcaption>
+</figure>
+
+---
 
 ## PhD Viva
 
