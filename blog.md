@@ -14,8 +14,7 @@ I mainly write about:
 - **MCP Attacks, Tool Poisoning, and Defenses**
 - **Secure Systems Design (Rust, Sandboxing, Telemetry)**
 
-Most posts are written as **research notes, engineering deep dives, or companion articles**
-to my papers and open-source projects.
+Most posts are written as **research notes, engineering deep dives, or companion articles** to my papers and open-source projects.
 
 ### Where I Write
 
